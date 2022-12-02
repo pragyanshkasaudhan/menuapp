@@ -9,7 +9,7 @@ const singleproduct = () => {
     const [itemdata, setItemdata] = useState([]);
 
     const getdata = async () => {
-        fetch(`http://localhost:3005/items/${window.location.href.split('/').pop()}`)
+        fetch(`https://my-json-server.typicode.com/pragyanshkasaudhan/menuapp/items/${window.location.href.split('/').pop()}`)
         .then(response => response.json())
         .then(json => {
         setItemdata(json);

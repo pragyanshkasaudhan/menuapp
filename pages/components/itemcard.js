@@ -13,7 +13,7 @@ const Itemcard = () => {
     // console.log(cat);
     const [data, setData] = useState([])
 
-    const getdata = async () => {fetch("http://localhost:3005/items/")
+    const getdata = async () => {fetch("https://my-json-server.typicode.com/pragyanshkasaudhan/menuapp/items/")
     .then(response => response.json())
     .then(json => {
         setData(json);
