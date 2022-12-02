@@ -1,0 +1,32 @@
+[
+        {
+            "id": 1,
+            "name": "Main Course",
+            "imgsrc": "bibimbap.png"
+        },
+        {
+            "id": 2,
+            "name": "Chinese",
+            "imgsrc": "salad.png"
+        },
+        {
+            "id": 3,
+            "name": "Fast Food",
+            "imgsrc": "hamburger.png"
+        },
+        {
+            "id": 4,
+            "name": "Main Course",
+            "imgsrc": "fast-food.png"
+        },
+        {
+            "id": 5,
+            "name": "Fast Food",
+            "imgsrc": "bibimbap.png"
+        },
+        {
+            "id": 6,
+            "name": "Chinese",
+            "imgsrc": "salad.png"
+        }
+]

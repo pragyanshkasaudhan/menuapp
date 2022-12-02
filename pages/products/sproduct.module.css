@@ -1,0 +1,66 @@
+.fullview{
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    /* padding: 10px; */
+    background-color: #2a2e33;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.fullview .top{
+    display: flex;
+    justify-content: space-between;
+    padding: 6vw;
+    font-size: 1.9rem;
+    width: 100%;
+    height: 8vh;
+}
+.top i{
+    color: #fff;
+}
+.fullview .content{
+    text-align: center;
+    border-radius: 50px 50px 0 0;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 18vh 6vw 0;
+    width: 100%;
+    height: 60vh;
+}
+.itemName{
+    padding: 5px 0;
+    font-family: basuto;
+    font-size: 2rem;
+}
+.detail{
+    padding: 10px 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.detail i{
+    color: #F8C045;;
+}
+.text{
+    text-align: justify;
+    font-family: poppins;
+    color: #656565;
+    font-size: 0.9rem;
+}
+.itemPrice{
+    font-family: poppins;
+    font-size: 1.5rem;
+}
+.itemimg{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 40%;
+}

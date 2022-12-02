@@ -1,0 +1,236 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Alize Red Passion",
+            "category": "Main Course",
+            "price": 264,
+            "deatils": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+            "imgsrc": "http://dummyimage.com/250x250.png/dddddd/000000",
+            "rating": 4.3,
+            "vegnonveg": "nonveg"
+        },
+        {
+            "id": 2,
+            "name": "Pomello",
+            "category": "Chinese",
+            "price": 289,
+            "deatils": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+            "imgsrc": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+            "rating": 4.9,
+            "vegnonveg": "veg"
+        },
+        {
+            "id": 3,
+            "name": "Bagels Poppyseed",
+            "category": "Soups",
+            "price": 181,
+            "deatils": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+            "imgsrc": "http://dummyimage.com/250x250.png/dddddd/000000",
+            "rating": 4.9,
+            "vegnonveg": "veg"
+        },
+        {
+            "id": 4,
+            "name": "Flavouring Vanilla Artificial",
+            "category": "Starters",
+            "price": 203,
+            "deatils": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+            "imgsrc": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+            "rating": 4.7,
+            "vegnonveg": "nonveg"
+        },
+        {
+            "id": 5,
+            "name": "Cauliflower",
+            "category": "Drinks",
+            "price": 290,
+            "deatils": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+            "imgsrc": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+            "rating": 4.9,
+            "vegnonveg": "veg"
+        },
+        {
+            "id": 6,
+            "name": "Beef - Rouladin, Sliced",
+            "category": "Main Course",
+            "price": 282,
+            "deatils": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+            "imgsrc": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+            "rating": 5.0,
+            "vegnonveg": "nonveg"
+        },
+        {
+            "id": 7,
+            "name": "Cornflakes",
+            "category": "Chinese",
+            "price": 207,
+            "deatils": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+            "imgsrc": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+            "rating": 3.2,
+            "vegnonveg": "nonveg"
+        },
+        {
+            "id": 8,
+            "name": "Magnotta Bel Paese Red",
+            "category": "Soups",
+            "price": 297,
+            "deatils": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+            "imgsrc": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+            "rating": 4.1,
+            "vegnonveg": "nonveg"
+        },
+        {
+            "id": 9,
+            "name": "Slt - Individual Portions",
+            "category": "Starters",
+            "price": 274,
+            "deatils": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+            "imgsrc": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+            "rating": 4.0,
+            "vegnonveg": "nonveg"
+        },
+        {
+            "id": 10,
+            "name": "Wine - White, Ej Gallo",
+            "category": "Drinks",
+            "price": 233,
+            "deatils": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+            "imgsrc": "http://dummyimage.com/250x250.png/dddddd/000000",
+            "rating": 3.3,
+            "vegnonveg": "veg"
+        },
+        {
+            "id": 11,
+            "name": "Cut Wakame - Hanawakaba",
+            "category": "Main Course",
+            "price": 196,
+            "deatils": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+            "imgsrc": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+            "rating": 4.3,
+            "vegnonveg": "veg"
+        },
+        {
+            "id": 12,
+            "name": "Cinnamon Rolls",
+            "category": "Chinese",
+            "price": 285,
+            "deatils": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+            "imgsrc": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+            "rating": 4.5,
+            "vegnonveg": "nonveg"
+        },
+        {
+            "id": 13,
+            "name": "Yucca",
+            "category": "Soups",
+            "price": 214,
+            "deatils": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+            "imgsrc": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+            "rating": 4.8,
+            "vegnonveg": "nonveg"
+        },
+        {
+            "id": 14,
+            "name": "Lamb - Shoulder",
+            "category": "Starters",
+            "price": 242,
+            "deatils": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+            "imgsrc": "http://dummyimage.com/250x250.png/cc0000/ffffff",
+            "rating": 4.5,
+            "vegnonveg": "veg"
+        },
+        {
+            "id": 15,
+            "name": "Wine - Crozes Hermitage E.",
+            "category": "Drinks",
+            "price": 188,
+            "deatils": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+            "imgsrc": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+            "rating": 3.0,
+            "vegnonveg": "veg"
+        },
+        {
+            "id": 16,
+            "name": "Bread - White Epi Baguette",
+            "category": "Main Course",
+            "price": 242,
+            "deatils": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+            "imgsrc": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+            "rating": 3.9,
+            "vegnonveg": "veg"
+        },
+        {
+            "id": 17,
+            "name": "Pastry - Apple Muffins - Mini",
+            "category": "Chinese",
+            "price": 181,
+            "deatils": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+            "imgsrc": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+            "rating": 4.9,
+            "vegnonveg": "veg"
+        },
+        {
+            "id": 18,
+            "name": "Bread - Multigrain",
+            "category": "Soups",
+            "price": 293,
+            "deatils": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+            "imgsrc": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+            "rating": 4.9,
+            "vegnonveg": "veg"
+        },
+        {
+            "id": 19,
+            "name": "Beef - Kindney, Whole",
+            "category": "Starters",
+            "price": 278,
+            "deatils": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+            "imgsrc": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+            "rating": 3.4,
+            "vegnonveg": "nonveg"
+        },
+        {
+            "id": 20,
+            "name": "Butter - Salted",
+            "category": "Drinks",
+            "price": 185,
+            "deatils": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+            "imgsrc": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+            "rating": 4.6,
+            "vegnonveg": "veg"
+        }
+    ],
+    "menu" : [
+        {
+            "id": 1,
+            "name": "Main Course",
+            "imgsrc": "bibimbap.png"
+        },
+        {
+            "id": 2,
+            "name": "Chinese",
+            "imgsrc": "salad.png"
+        },
+        {
+            "id": 3,
+            "name": "Fast Food",
+            "imgsrc": "hamburger.png"
+        },
+        {
+            "id": 4,
+            "name": "Main Course",
+            "imgsrc": "fast-food.png"
+        },
+        {
+            "id": 5,
+            "name": "Fast Food",
+            "imgsrc": "bibimbap.png"
+        },
+        {
+            "id": 6,
+            "name": "Chinese",
+            "imgsrc": "salad.png"
+        }
+    ]
+}
